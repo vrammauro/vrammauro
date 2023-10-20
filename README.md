@@ -10,7 +10,7 @@ I am a passionate **Animal Scientist (Zootecnico)** with a strong background in 
 
 ## Find Me Online
 
-Let's connect and explore the world of zootecnica, genetics, and more:
+Let's connect and explore the world of animal science, genetics, and more:
 
 - 🌐 [Website](https://www.facebook.com/rammauro/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/vittorio-rammauro/)
