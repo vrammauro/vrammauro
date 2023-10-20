@@ -15,19 +15,15 @@ Let's connect and explore the world of zootecnica, genetics, and more:
 - 🌐 [Website](https://www.facebook.com/rammauro/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/vittorio-rammauro/)
 
-<!-- Inizia a nascondere il codice -->
-'''
 ## My Projects
 
 Discover some of my open-source projects and contributions:
 
-- 🧪 [GeneticAnalyzer](https://github.com/yourusername/genetic-analyzer): A Python tool for genetic data analysis.
-- 🗺️ [AgroGIS](https://github.com/yourusername/agro-gis): Exploring GIS for agro-zootechnical applications.
-- 🏢 [FarmManager](https://github.com/yourusername/farm-manager): A management system for agro-zootechnical enterprises.
+- 🧪 [GeneticAnalyzer](https://github.com/vrammauro/genetic-analyzer): A Python tool for genetic data analysis.
+- 🗺️ [AgroGIS](https://github.com/vrammauro/agro-gis): Exploring GIS for agro-zootechnical applications.
+- 🏢 [FarmManager](https://github.com/vrammauro/farm-manager): A management system for agro-zootechnical enterprises.
 
 Feel free to explore, contribute, and collaborate with me on these projects!
-'''
-<!-- Termina il codice nascosto -->
 
 ## Get in Touch
 
